@@ -96,9 +96,3 @@ PowerShell is one of the most common living-off-the-land tools — no malware to
 - [x] Script Block Logging confirmed active (631 events in channel)
 - [x] Event ID 4104 located and read in both XML and Friendly View
 - [x] Clock-drift finding identified and documented
-- [ ] Planned `Get-LocalUser` test command — not yet located in captured evidence
-- [ ] Group Policy logging configuration — not directly screenshotted (inferred from active logging)
-
----
-
-*Part of a daily hands-on SOC analyst project. Full narrative version: Medium — "Reading Windows the Way a SOC Analyst Does."*
